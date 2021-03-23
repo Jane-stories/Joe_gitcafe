@@ -6,6 +6,7 @@
 3. [Italian Cream Iced Coffee](recipes/Italian Cream Iced Coffee.txt)
 4. [Moroccan Peppercorn Coffee](recipes/Moroccan Peppercorn Coffee.txt)
 5. [Vietnamese Egg Coffee](recipes/Vietnamese Egg Coffee.txt)
+6. [Signature Latte](recipes/signature_latte.txt)
 
 
 ## DELI SNACKS 
